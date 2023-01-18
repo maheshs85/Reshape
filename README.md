@@ -25,6 +25,3 @@ Using these features, we created a voice assistant which will handle simple comm
 * "click `a clickable element on the webpage`"
 * "search `searchable text>`"
 
-## Website for the project
-https://jinyuusa12.wixsite.com/reshape
-More info at: https://yhack2018.hackerearth.com/sprints/yhack-2018/dashboard/ad729ed/submission/
